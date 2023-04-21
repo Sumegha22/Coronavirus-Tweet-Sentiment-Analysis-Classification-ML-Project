@@ -32,7 +32,8 @@ It will include lowercasing, tokenization, punctuation removal, stopword removal
 # Feature Manipulation & Selection
 It will include Extract relevant features from the data and transform them into a format that can be used for machine learning and Choose an appropriate machine learning algorithm or a combination of algorithms to solve the problem at hand. 
 
-# Model training: Split the data into training and testing sets, and train the model on the training set. Evaluate the model's performance on the testing set and tune the hyperparameters accordingly.Here, we use 80/20 ratio data spliting so get effective train & test data set.
+# Model training:
+Split the data into training and testing sets, and train the model on the training set. Evaluate the model's performance on the testing set and tune the hyperparameters accordingly.Here, we use 80/20 ratio data spliting so get effective train & test data set.
 
 # CONCLUSION
 1.We applied 8 models namely, Logistic Regression with Grid Search CV, Decision Tree Classifier,Stochastic Gradient Descent , KNN, SVM,Multinomial Navies Bayes,Bernoulli Navies Bayes Classifier for both Count Vector And TF ID Vectorization techniques.
